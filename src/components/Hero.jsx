@@ -14,17 +14,17 @@ const Hero = () => {
                      initial={{opacity:0,x:-50}}
                      whileInView={{opacity:1,x:0}}
                      transition={{duration:1, delay:0.2}}
-                    className='text-amber-900 font-semibold font-cursive text-lg'>Welcome to Brew Haven___</motion.h3>
+                    className='text-amber-900 font-semibold font-cursive text-lg'>Welcome to Cozy Bean___</motion.h3>
                     <motion.h1 
                      initial={{opacity:0,x:-60}}
                      whileInView={{opacity:1,x:0}}
                      transition={{duration:1, delay:0.4}}
-                    className='text-4xl md:text-6xl font-bold font-cursive2'>Experience Artisanal <span className='text-amber-900'>Coffee</span> at Brew Haven</motion.h1>
+                    className='text-4xl md:text-6xl font-bold font-cursive2'>Experience Artisanal <span className='text-amber-900'>Coffee</span> at Cozy Bean</motion.h1>
                     <motion.p
                      initial={{opacity:0,x:-60}}
                      whileInView={{opacity:1,x:0}}
                      transition={{duration:1.2, delay:0.6}}
-                    >Indulge in our carefully crafted brews, made from ethically sourced beans and brewed to perfection.</motion.p>
+                    >Indulge in the richness of coffee that’s crafted for taste, sourced for goodness, and brewed with joy.</motion.p>
                     <motion.div 
                      initial={{opacity:0,x:-70}}
                      whileInView={{opacity:1,x:0}}

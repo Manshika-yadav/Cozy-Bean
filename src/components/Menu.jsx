@@ -9,21 +9,21 @@ const MenuData = [
       img: Img2,
       name: "Espresso",
       description:
-        "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet.",
+        "A rich, bold shot of pure coffee essence — smooth, intense, and perfectly crafted to awaken your senses with every sip.",
     },
     {
       id: 2,
       img: Img1,
       name: "Americano",
       description:
-        "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
+        "A smooth blend of espresso and hot water, offering a mellow richness with deep coffee notes and a clean finish.",
     },
     {
       id: 3,
       img: Img2,
       name: "Cappuccino",
       description:
-        "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
+        "A classic balance of bold espresso, velvety steamed milk, and a cloud of airy foam — comforting, creamy, and timeless.",
     },
   ];
 
@@ -55,7 +55,7 @@ const Menu = () => {
                         <h1 className='text-xl font-bold'>{menu.name}</h1>
                         <p className='text-gray-500 group-hover:text-white duration-high text-sm line-clamp-2'>{menu.description}</p>
                         <div className='flex justify-between mt-5 px-6 items-center'>
-                            <p className='text-lg font-semibold'>$3.75</p>
+                            <p className='text-lg font-semibold'>Rs.180/-</p>
                             <button className='bg-amber-900 text-white px-3 py-2 rounded-md group-hover:bg-white group-hover:text-amber-900'>Order Now</button>
                         </div>
                     </div>

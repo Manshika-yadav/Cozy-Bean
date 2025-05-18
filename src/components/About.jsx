@@ -42,7 +42,7 @@ const About = () => {
               initial={{opacity:0,y:100}}
               whileInView={{opacity:1,y:0}}
               transition={{duration:1.5, delay:0.6}}
-            className='font-cursive2'>Founded in 2010, Bean Haven started as a small coffee cart in the heart of the city. Our founder, Jane Doe, had a vision to bring the finest, ethically sourced coffee to our community. What began as a love for the perfect cup of joe has grown into a thriving business, but our core values remain the same. We believe that great coffee is an art form. From carefully selecting the best beans from sustainable farms around the world to meticulously roasting them to perfection, every step in our process is crafted with love and expertise.</motion.p>
+            className='font-cursive2'>Founded in 2010, Cozy Bean started as a small coffee cart in the heart of the city. Our founder, Jane Doe, had a vision to bring the finest, ethically sourced coffee to our community. What began as a love for the perfect cup of joe has grown into a thriving business, but our core values remain the same. We believe that great coffee is an art form. From carefully selecting the best beans from sustainable farms around the world to meticulously roasting them to perfection, every step in our process is crafted with love and expertise.</motion.p>
         </div>
       </div>
     </div>

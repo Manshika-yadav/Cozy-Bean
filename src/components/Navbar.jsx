@@ -11,7 +11,7 @@ const Navbar = () => {
                 {/* logo section */}
                 <div className='flex items-center'>
                     <img src={Logo} alt="" className='w-10 h-10' />
-                    <h1 className='text-2xl text-white font-cursive'>Brew Haven</h1>
+                    <h1 className='text-2xl text-white font-cursive'>Cozy Bean</h1>
                 </div>
                 {/* menu section */}
                 <nav className='md:flex hidden items-center gap-7'>

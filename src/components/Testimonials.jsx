@@ -7,26 +7,26 @@ import { motion } from 'framer-motion';
 
 const TestimonialData = [{
     id: 1,
-    name: "Vanshika",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Nitya",
+    text: "The beans are clearly top-notch. Every cup is smooth, aromatic, and full of flavor. Truly good quality.",
     img: "https://picsum.photos/101/101",
 },
 {
     id: 2,
-    name: "Rohit",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Anushka",
+    text: "Tried Cappuccino and it was heavenly. Quick service and great quality!",
     img: "https://picsum.photos/102/102",
 },
 {
     id: 3,
-    name: "Ankit",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "John",
+    text: "Their espresso is strong without being bitter - just the right balance. You can tell the quality is a priority here.",
     img: "https://picsum.photos/104/104",
 },
 {
     id: 5,
-    name: "Aman",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Manshika",
+    text: "Silky smooth texture, deep flavor, and always the perfect temperature. Truly a treat for coffee enthusiasts.",
     img: "https://picsum.photos/103/103",
 },
 ];
