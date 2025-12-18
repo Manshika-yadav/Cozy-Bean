@@ -7,13 +7,13 @@ import { motion } from 'framer-motion';
 
 const TestimonialData = [{
     id: 1,
-    name: "Nitya",
+    name: "Jessica",
     text: "The beans are clearly top-notch. Every cup is smooth, aromatic, and full of flavor. Truly good quality.",
     img: "https://picsum.photos/101/101",
 },
 {
     id: 2,
-    name: "Anushka",
+    name: "Aarav",
     text: "Tried Cappuccino and it was heavenly. Quick service and great quality!",
     img: "https://picsum.photos/102/102",
 },
@@ -25,7 +25,7 @@ const TestimonialData = [{
 },
 {
     id: 5,
-    name: "Manshika",
+    name: "Sophia",
     text: "Silky smooth texture, deep flavor, and always the perfect temperature. Truly a treat for coffee enthusiasts.",
     img: "https://picsum.photos/103/103",
 },
