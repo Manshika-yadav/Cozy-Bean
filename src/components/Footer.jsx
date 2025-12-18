@@ -73,7 +73,7 @@ const Footer = () => {
                                 <p>+91 12345467890</p>
                                 {/* social links */}
                                 <div className='flex items-center gap-3 mt-6'>
-                                    <a href="#">
+                                    {/* <a href="#">
                                         <FaInstagram className='text-3xl hover:text-amber-900 duration-300' />
                                     </a>
                                     <a href="#">
@@ -81,7 +81,7 @@ const Footer = () => {
                                     </a>
                                     <a href="#">
                                         <FaLinkedin className='text-3xl hover:text-amber-900 duration-300' />
-                                    </a>
+                                    </a> */}
                                 </div>
                             </div>
                         </div>
